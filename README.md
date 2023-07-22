@@ -75,7 +75,8 @@ Remember to start with weights or resistance that challenge you but still allow 
 7. Limit Processed Foods: Minimize consumption of processed foods that are often high in added sugars, unhealthy fats, and additives. Focus on whole, unprocessed foods whenever possible.
 
 It's important to consult with a healthcare provider or a registered dietitian for personalized advice based on your specific needs and any underlying health conditions. They can provide more detailed guidance and tailor recommendations to ensure a healthy pregnancy.
-Contributing
+
+  
 
 Contributions to the FitBot project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request to contribute to the project's development.
 
