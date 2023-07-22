@@ -10,7 +10,7 @@ FEATURES
 
 Intelligent Responses: The FitBot provides accurate and helpful responses to common questions and concerns related to Fitness.
 
-Multiple Topics: It covers a wide range of Fitness related topics, including Weight loss, Weight gain, Workout routines, Nutrition, Goal setting, Track progress and General wellbeing.
+Multiple Topics: It covers a wide range of Fitness related topics, including Weight loss, Weight gain, Workout routines, Pregnancy, Nutrition, Goal setting, Track progress and General wellbeing.
 
 Personalized Recommendations: The FitBot can offer personalized recommendations based on the user's specific inquiries and circumstances.
 
