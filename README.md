@@ -42,7 +42,7 @@ Examples
 
 -User: What are the simple exercises that can be done to get toned arms?
 
-There are several simple exercises that can help tone your arms. Here are a few to consider:
+-FitBot: There are several simple exercises that can help tone your arms. Here are a few to consider:
 
 1. Push-ups: Start in a plank position with your hands slightly wider than shoulder-width apart. Lower your body by bending your elbows, keeping them close to your sides. Push back up to the starting position. You can modify push-ups by doing them on your knees or against a wall if needed.
 
@@ -58,7 +58,7 @@ Remember to start with weights or resistance that challenge you but still allow 
 
 -User: Can you recommend a healthy diet for pregnant women?
 
--Certainly! Maintaining a healthy diet is vital for pregnant women as it supports both their own health and the proper development of their baby. Here are some general guidelines for a healthy diet during pregnancy:
+-FitBot: Certainly! Maintaining a healthy diet is vital for pregnant women as it supports both their own health and the proper development of their baby. Here are some general guidelines for a healthy diet during pregnancy:
 
 1. Eat a Balanced Diet: Include a variety of nutrient-dense foods from all food groups. This should include fruits, vegetables, whole grains, lean proteins, dairy or dairy alternatives, and healthy fats.
 
