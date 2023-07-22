@@ -1,6 +1,8 @@
 # FitBot
 First task submission at Sync's Intern
+
 Fitness ChatBot (FitBot)
+
 The Fitness ChatBot named FitBot is a conversational AI powered virtual Fitness Coach designed to provide guidiance, support and information to individuals in other to acheive their fitness goals. It is a type of generative AI that uses natural language processing (NLP) to generate text similar to human writing. The model is trained using a combination of two major inputs: a massive volume of sample text pulled from web pages, program code and conversations provided by real humans who demonstrated the desired responses to provided prompts, then ranked outputs from the model based on the quality of the responses.
 It eventually learns from the user input in real-time using a process called continuous learning. It has a neural network architecture to process text input and generate text output
 
